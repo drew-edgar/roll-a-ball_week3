@@ -8,6 +8,8 @@ This is a simple Unity project designed to provide a clean starting point to con
 
 Scenes Included:
 - MiniGame – A scene with...
+- XRSampleScene – A basic scene showcasing the XR Interaction Setup and XR Simulator. Has continuous locomotion, snap turns, teleporting, and grabbable interaction objects.
+- The full XR Interaction Toolkit Sample Scene can be found at "Assets/Samples/XR Interaction Toolkit/2.5.4/StarterAssets".
 
 ## Getting Started
 To get this project up and running:
