@@ -17,7 +17,7 @@ To get this project up and running:
 1. Clone the Repository
 
 ```css
-git clone https://github.com/your-username/basic-unity-project.git
+git clone https://github.com/drew-edgar/roll-a-ball_week3.git
 ```
 2. Open in Unity
 
